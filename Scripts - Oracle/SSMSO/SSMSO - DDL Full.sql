@@ -1,13 +1,11 @@
--- Generado por Oracle SQL Developer Data Modeler 21.4.2.059.0838
---   en:        2022-11-09 20:33:07 CLST
---   sitio:      Oracle Database 11g
---   tipo:      Oracle Database 11g
+-- ----------------------------------------
+-- Sistema de Salud Metropolitano Sur Oriente
+-- ----------------------------------------
+-- Creacion de tablas y constraints
+-- ----------------------------------------
+-- ** ** ** DDL ** ** **
+-- ----------------------------------------
 
-
-
--- predefined type, no DDL - MDSYS.SDO_GEOMETRY
-
--- predefined type, no DDL - XMLTYPE
 
 CREATE TABLE atencion (
     id_atencion      NUMBER(12) NOT NULL,
